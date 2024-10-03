@@ -1,6 +1,6 @@
 # Proyecto Cocina
 
-### Descripciòn
+### Descripción
 ## Skill de Desarrollo
 - [Vue]()
 - [Boootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
@@ -45,20 +45,20 @@
 - Asegúrate de revisar las limitaciones de uso y las políticas de cada API, ya que algunas pueden tener restricciones en cuanto a la cantidad de solicitudes o requerir una clave de API.
 - Algunas APIs ofrecen niveles de suscripción que pueden ofrecer funciones adicionales si necesitas más capacidades.
 
-## Instalaciòn
+## Instalación
 ```
 npm install
 ```
 
-### Compilaciòn
+### Compilación
 ```
 npm run serve
 ```
 
-### Compilacion para Producciòn
+### Compilación para Producción
 ```
 npm run build
 ```
 
-### Documentaciòn
+### Documentación
 See [Configuration Reference](https://cli.vuejs.org/config/).
