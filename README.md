@@ -2,7 +2,7 @@
 
 ### Descripción
 ## Skill de Desarrollo
-- [Vue]()
+- [Vue](https://cli.vuejs.org/config/)
 - [Boootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
 
