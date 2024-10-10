@@ -59,6 +59,4 @@ npm run serve
 ```
 npm run build
 ```
-
-### Documentación
-See [Configuration Reference](https://cli.vuejs.org/config/).
+---
