@@ -44,7 +44,7 @@
 
 - Asegúrate de revisar las limitaciones de uso y las políticas de cada API, ya que algunas pueden tener restricciones en cuanto a la cantidad de solicitudes o requerir una clave de API.
 - Algunas APIs ofrecen niveles de suscripción que pueden ofrecer funciones adicionales si necesitas más capacidades.
-
+ 
 ## Instalación
 ```
 npm install
