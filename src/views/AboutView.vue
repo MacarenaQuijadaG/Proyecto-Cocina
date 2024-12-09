@@ -26,22 +26,25 @@
       </div>
       <div class="col-12 mb-3">
         <label for="inputAddress" class="form-label">Dirección</label>
-        <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+        <input type="text" class="form-control" id="inputAddress">
       </div>
       <div class="col-md-6 mb-3">
         <label for="inputCity" class="form-label">Ciudad</label>
         <input type="text" class="form-control" id="inputCity">
       </div>
+      <div class="col-md-2 mb-3">
+        <label for="inputZip" class="form-label">Código postal</label>
+        <input type="text" class="form-control" id="inputZip">
+      </div>
       <div class="col-md-4 mb-3">
         <label for="inputState" class="form-label">Estado</label>
         <select id="inputState" class="form-select">
           <option selected>Elige...</option>
-          <option>...</option>
+          <option>Soltero</option>
+          <option>Casado</option>
+          <option>Viudo</option>
+          <option>Otro</option>
         </select>
-      </div>
-      <div class="col-md-2 mb-3">
-        <label for="inputZip" class="form-label">Código postal</label>
-        <input type="text" class="form-control" id="inputZip">
       </div>
       <div class="col-12 mb-3">
         <div class="form-check">
