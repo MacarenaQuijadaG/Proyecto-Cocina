@@ -58,7 +58,7 @@
           {{ errorMessage }}
         </div>
         <div class="col-12 mb-3">
-          <button type="submit" class="btn btn-primary w-100">Ingresar</button>
+          <button type="submit" class="btn btn-primary w-100">Registrarse</button>
         </div>
       </form>
     </div>
