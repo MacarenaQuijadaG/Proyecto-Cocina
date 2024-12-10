@@ -1,4 +1,4 @@
-# 🌟 Proyecto de Recetas por Ingrediente 🌟
+# 🌟 Proyecto de Recetas 🌟
 
 Este es un proyecto de aplicación web desarrollado en **Vue.js** que permite a los usuarios buscar recetas basadas en un ingrediente específico. Utiliza la API de **TheMealDB** para obtener y mostrar recetas de manera sencilla y eficiente.
 
