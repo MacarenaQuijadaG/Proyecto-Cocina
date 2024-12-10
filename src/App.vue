@@ -33,7 +33,7 @@
             </router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="">
+            <router-link class="nav-link" to="/acerca">
               <i class="fas fa-info-circle me-2"></i>Acerca de
             </router-link>
           </li>
